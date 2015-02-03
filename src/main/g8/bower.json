@@ -1,0 +1,21 @@
+{
+  "name": "$name$",
+  "private": true,
+  "version": "$version$",
+  "authors": [
+    "$author$"
+  ],
+  "main": [
+    "build/$name$.js"
+  ],
+  "dependencies": {
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "gulpfile.js",
+    "package.json",
+    "public"
+  ]
+}
